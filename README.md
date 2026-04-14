@@ -46,7 +46,7 @@ The goal of this project is to create a working system that can be used as a fou
 
 * python app.py
 
-* streamlit run dashboard.py
+* python -m streamlit run dashboard.py
 
 ### Output
 * Real-time vehicle detection
