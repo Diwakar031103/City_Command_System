@@ -2,4 +2,4 @@ pip install ultralytics opencv-python streamlit
 
 python app.py
 
-streamlit run dashboard.py
+python -m streamlit run dashboard.py
